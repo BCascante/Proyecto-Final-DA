@@ -1,0 +1,12 @@
+### Dashboards
+
+1. Sugerencia 1
+    1. Traza un histograma para la duración de la llamada
+    2. Traza un gráfico circular que muestre la participación de las llamadas internas y externas
+    3. Agrega un filtro para la "dirección" de llamadas
+
+2. Sugerencia 2
+    1. Traza un histograma que muestre el número de llamadas por día
+    2. Traza un gráfico circular que muestre la participación de las llamadas internas y externas
+    3. Agrega un filtro por tipo de llamada (interna o externa)
+    
